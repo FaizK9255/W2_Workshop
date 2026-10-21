@@ -10,3 +10,9 @@ staff_payroll
 money
 company_account 
 Column names:
+
+customer address, customer id, customer sign up date, 
+
+staff id, staff work hours, staff payments, staff equipment, staff callouts
+
+company account, appointments, company bills, monthly profit
