@@ -1,2 +1,12 @@
 # Requirements and Conceptual Model
 Faiz Khan, Alizon Martinez, David Avetisyan
+This data is for Lana'a dog walking business
+Some entites would be: 
+customer_id 
+customer_payments
+appointments
+staff_id
+staff_payroll
+money
+company_account 
+Column names:
